@@ -50,15 +50,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Atendimento.cs">
+      <DependentUpon>DadosEntity.tt</DependentUpon>
+    </Compile>
     <Compile Include="DadosEntity.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DadosEntity.Context.tt</DependentUpon>
     </Compile>
+    <Compile Include="DadosEntity.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DadosEntity.tt</DependentUpon>
+    </Compile>
     <Compile Include="DadosEntity.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DadosEntity.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente.cs">
+      <DependentUpon>DadosEntity.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -79,6 +90,12 @@
     <Content Include="DadosEntity.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>DadosEntity.Context.cs</LastGenOutput>
+      <DependentUpon>DadosEntity.edmx</DependentUpon>
+    </Content>
+    <Content Include="DadosEntity.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DadosEntity.edmx</DependentUpon>
+      <LastGenOutput>DadosEntity.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <ItemGroup>

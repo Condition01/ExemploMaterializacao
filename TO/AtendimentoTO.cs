@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TO
 {
-    public class Atendimento
+    public class AtendimentoTO
     {
         public PacienteTO Paciente { get; set; }
         public int Anamnese { get; set; }
