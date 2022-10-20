@@ -1,0 +1,17 @@
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\Dados.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\TO.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\Dados.pdb
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\Dados.dll.config
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\TO.pdb
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\obj\Debug\Repositorio.csproj.AssemblyReference.cache
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Repositorio\obj\Debug\Repositorio.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\TO\bin\Debug\TO.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\TO\bin\Debug\TO.pdb
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\TO\obj\Debug\TO.csproj.AssemblyReference.cache
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\TO\obj\Debug\TO.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\TO\obj\Debug\TO.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\TO\obj\Debug\TO.pdb

@@ -1,0 +1,12 @@
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\bin\Debug\Dados.dll.config
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\bin\Debug\Dados.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\bin\Debug\Dados.pdb
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\bin\Debug\EntityFramework.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\bin\Debug\EntityFramework.xml
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\obj\Debug\Dados.csproj.CopyComplete
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\obj\Debug\Dados.dll
+C:\Users\Bruno Cardoso\source\repos\ExemploMaterializacao\Dados\obj\Debug\Dados.pdb
